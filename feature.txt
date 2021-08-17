@@ -1,0 +1,2 @@
+New feature added!
+This is a rebase feature.
