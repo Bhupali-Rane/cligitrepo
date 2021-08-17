@@ -1,3 +1,6 @@
+Heyy! We are developing a banking app
+We need to include sample app
+
 This is a sample file for git command line
 Welcome to git Console concepts
 
