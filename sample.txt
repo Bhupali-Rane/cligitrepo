@@ -1,1 +1,2 @@
 this is a sample file for git command line
+Welcome to git Console concepts
